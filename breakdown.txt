@@ -1,0 +1,5 @@
+I made a homemework.html file 
+I made astyle.css file and link in below title with syntax :  <link rel ="stylesheet" type=" text/css" href="style.css">
+Now I can style ,background colour , colours , font etc , I did it in line styling placing my style inside p .
+I can also do it in style.css file . whatever style i wrote last like internal or external , whichever i wrote at last will get priorty.
+css selector: 1. element selector : this is what i already did (internal styling ) 2. id selector : this is like idendentyfyng 3. class selector
